@@ -1,0 +1,124 @@
+{
+  "err": null,
+  "result": {
+    "trainServices": [{
+      "std": "08:09",
+      "etd": "On time",
+      "platform": "1",
+      "operator": "Greater Anglia",
+      "operatorCode": "LE",
+      "serviceId": "grH8z3DlLirvVof12rFxxA==",
+      "rsid": "LE061500",
+      "origin": {
+        "name": "Ely",
+        "crs": "ELY"
+      },
+      "destination": {
+        "name": "London Liverpool Street",
+        "crs": "LST"
+      }
+    }, {
+      "std": "08:22",
+      "etd": "On time",
+      "platform": "2",
+      "operator": "Great Northern",
+      "operatorCode": "GN",
+      "length": "4",
+      "serviceId": "5mIPYjOjKpPoKVovGnVtKQ==",
+      "rsid": "GN101500",
+      "origin": {
+        "name": "London Kings Cross",
+        "crs": "KGX"
+      },
+      "destination": {
+        "name": "Kings Lynn",
+        "crs": "KLN"
+      }
+    }, {
+      "std": "08:35",
+      "etd": "On time",
+      "platform": "1",
+      "operator": "Great Northern",
+      "operatorCode": "GN",
+      "length": "4",
+      "serviceId": "x4k+65QO5d13ZUckemLyvQ==",
+      "rsid": "GN102000",
+      "origin": {
+        "name": "Kings Lynn",
+        "crs": "KLN"
+      },
+      "destination": {
+        "name": "London Kings Cross",
+        "crs": "KGX"
+      }
+    }, {
+      "std": "08:44",
+      "etd": "On time",
+      "platform": "2",
+      "operator": "Great Northern",
+      "operatorCode": "GN",
+      "length": "4",
+      "serviceId": "XJDJpr/d/VPk1knUTAbD4w==",
+      "rsid": "GN101700",
+      "origin": {
+        "name": "London Kings Cross",
+        "crs": "KGX"
+      },
+      "destination": {
+        "name": "Kings Lynn",
+        "crs": "KLN"
+      }
+    }, {
+      "std": "08:55",
+      "etd": "On time",
+      "platform": "1",
+      "operator": "Great Northern",
+      "operatorCode": "GN",
+      "length": "4",
+      "serviceId": "3Ze26+0EDXCf/vOSfu/8Jg==",
+      "rsid": "GN102100",
+      "origin": {
+        "name": "Kings Lynn",
+        "crs": "KLN"
+      },
+      "destination": {
+        "name": "London Kings Cross",
+        "crs": "KGX"
+      }
+    }, {
+      "std": "09:26",
+      "etd": "On time",
+      "platform": "1",
+      "operator": "Great Northern",
+      "operatorCode": "GN",
+      "length": "4",
+      "serviceId": "mOI5SXgmvczIRZCAU1uE9g==",
+      "rsid": "GN102300",
+      "origin": {
+        "name": "Kings Lynn",
+        "crs": "KLN"
+      },
+      "destination": {
+        "name": "London Kings Cross",
+        "crs": "KGX"
+      }
+    }, {
+      "std": "09:44",
+      "etd": "On time",
+      "platform": "2",
+      "operator": "Great Northern",
+      "operatorCode": "GN",
+      "length": "4",
+      "serviceId": "Uc/K8nIKEDMoT25Y64VRrA==",
+      "rsid": "GN016500",
+      "origin": {
+        "name": "London Kings Cross",
+        "crs": "KGX"
+      },
+      "destination": {
+        "name": "Kings Lynn",
+        "crs": "KLN"
+      }
+    }]
+  }
+}
